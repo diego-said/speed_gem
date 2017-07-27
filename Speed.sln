@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed", "Speed.csproj", "{28EF4580-48A2-4F65-1E48-E495AA17AD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed.Plugins", "Speed.Plugins.csproj", "{6E71A43E-A847-EB51-C8BC-C49386653EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EF4580-48A2-4F65-1E48-E495AA17AD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EF4580-48A2-4F65-1E48-E495AA17AD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EF4580-48A2-4F65-1E48-E495AA17AD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EF4580-48A2-4F65-1E48-E495AA17AD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E71A43E-A847-EB51-C8BC-C49386653EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E71A43E-A847-EB51-C8BC-C49386653EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E71A43E-A847-EB51-C8BC-C49386653EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E71A43E-A847-EB51-C8BC-C49386653EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

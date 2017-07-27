@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{44877C6A-A8E9-3FA5-A91C-9361211464FB}") = "Speed", "Assembly-CSharp-firstpass-vs.csproj", "{74903FF8-0A81-DF0E-832C-9F7C443D547F}"
+EndProject
+Project("{44877C6A-A8E9-3FA5-A91C-9361211464FB}") = "Speed", "Assembly-CSharp-vs.csproj", "{741D877C-0225-609B-478E-1907BD41037B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74903FF8-0A81-DF0E-832C-9F7C443D547F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74903FF8-0A81-DF0E-832C-9F7C443D547F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74903FF8-0A81-DF0E-832C-9F7C443D547F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74903FF8-0A81-DF0E-832C-9F7C443D547F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741D877C-0225-609B-478E-1907BD41037B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741D877C-0225-609B-478E-1907BD41037B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741D877C-0225-609B-478E-1907BD41037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741D877C-0225-609B-478E-1907BD41037B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
